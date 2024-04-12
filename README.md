@@ -1,2 +1,581 @@
-# natarajapuram
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type='text/javascript' src='menu_jquery.js'></script>
+    <title>Natarajapuram Nagarathar</title>
+    <style type="text/css">
+        <!-- body {
+            background-color: #000000;
+        }
+        
+        .header {
+            background-image: url(header1.png);
+            width: 1050px;
+            height: 250px;
+            left: auto;
+            top: auto;
+            margin-bottom: -100px;
+            margin-top: -140px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-right: 0px;
+            right: auto;
+            bottom: auto;
+        }
+        
+        .new {
+            width: 1020px;
+            height: 60px;
+            left: auto;
+            top: auto;
+            margin-bottom: -100px;
+            margin-top: -45px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-right: 0;
+            right: 150px;
+            bottom: auto;
+        }
+        
+        .left {
+            width: 5x;
+            height: 5px;
+            left: 0px;
+            top: 0px;
+            background-repeat: no-repeat;
+            background-position: center;
+            bottom: 0px;
+            padding-top: 0px;
+            margin-top: -400px;
+            margin-right: 0px;
+            margin-bottom: 0px;
+            margin-left: -525px;
+        }
+        
+        .ec {
+            width: 5x;
+            height: 5px;
+            left: 0px;
+            top: 0px;
+            background-repeat: no-repeat;
+            background-position: center;
+            bottom: 0px;
+            padding-top: 0px;
+            margin-top: 395px;
+            margin-right: 0;
+            margin-bottom: auto;
+            margin-left: 1075px;
+        }
+        
+        .ec1 {
+            width: 15x;
+            height: 15px;
+            left: 0px;
+            top: 0px;
+            background-repeat: no-repeat;
+            background-position: center;
+            bottom: 0px;
+            padding-top: 0px;
+            margin-top: -2px;
+            margin-right: 0;
+            margin-bottom: auto;
+            margin-left: 1019px;
+        }
+        
+        .radius {
+            border-radius: 12px 12px 12px 12px;
+            background-color: #411B00;
+            left: auto;
+            right: auto;
+            top: auto;
+            margin-bottom: -40px;
+            margin-top: -40px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-right: auto;
+            right: auto;
+            bottom: auto;
+            padding: 5px;
+        }
+        
+        .radius1 {
+            border-radius: 15px 15px 15px 15px;
+            background-image: url(images/bg2.jpg);
+            padding: 2px;
+        }
+        
+        .up {
+            left: auto;
+            top: auto;
+            margin-bottom: 0;
+            margin-top: 0;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-right: auto;
+            right: auto;
+            bottom: auto;
+        }
+        
+        .down1 {
+            left: auto;
+            top: auto;
+            margin-bottom: 100px;
+            margin-top: 0;
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-right: auto;
+            right: auto;
+            bottom: auto;
+        }
+        
+        .style2 {
+            font-family: "Bookman Old Style";
+            font-weight: bold;
+            font-size: 15px;
+            color: #411B00;
+        }
+        
+        .style4 {
+            color: #006600;
+            font-family: "Times New Roman", Times, serif;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        a:link {
+            color: #006600;
+            text-decoration: none;
+        }
+        
+        a:visited {
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        a:active {
+            text-decoration: none;
+        }
+        
+        .style5 {
+            color: #411B00
+        }
+        
+        .style12 {
+            font-family: "Bookman Old Style";
+            font-weight: bold;
+            color: #330000;
+            font-size: 20px;
+        }
+        
+        .footer {
+            background-image: url(images/footer.png);
+            width: 1025px;
+            height: 28px;
+            left: 0px;
+            top: 0px;
+            background-repeat: no-repeat;
+            background-position: center;
+            bottom: 0px;
+            float: none;
+            clear: none;
+            margin-top: -5px;
+            margin-right: auto;
+            margin-bottom: -2px;
+            margin-left: auto;
+            padding: 0px;
+        }
+        
+        .style13 {
+            font-family: "Bookman Old Style";
+            font-size: 12px;
+            color: #411B00;
+            font-weight: bold;
+        }
+        
+        .style14 {
+            color: #006600
+        }
+        
+        .style15 {
+            font-family: "Bookman Old Style";
+            color: #330000;
+        }
+        
+        .style19 {
+            font-family: "Bookman Old Style";
+            font-weight: bold;
+            color: #411B00;
+        }
+        
+        .style20 {
+            color: #411B00;
+            font-weight: bold;
+        }
+        
+        .style21 {
+            color: #990000
+        }
+        
+        -->
+    </style>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5d170058ff2f050012eebf7c&product='inline-share-buttons' async='async'></script>
+    <SCRIPT LANGUAGE="JavaScript">
+        <!-- Begin
+        NewImg = new Array(
+            "images/p2.jpg",
+            "images/p1.jpg"
+        );
+        var ImgNum = 0;
+        var ImgLength = NewImg.length - 1;
+        //Time delay between Slides in milliseconds
+        var delay = 4700;
+        var lock = false;
+        var run;
+
+        function chgImg(direction) {
+            if (document.images) {
+                ImgNum = ImgNum + direction;
+                if (ImgNum > ImgLength) {
+                    ImgNum = 0;
+                }
+                if (ImgNum < 0) {
+                    ImgNum = ImgLength;
+                }
+                document.slideshow.src = NewImg[ImgNum];
+            }
+        }
+
+        function auto() {
+            if (lock == true) {
+                lock = false;
+                window.clearInterval(run);
+            } else if (lock == false) {
+                lock = true;
+                run = setInterval("chgImg(1)", delay);
+            }
+        }
+        //  End -->
+    </script>
+</head>
+
+<body>
+    <table width="1056" border="0" align="center">
+        <tr>
+            <td height="252">
+                <div class="header" align="center"></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="1050" align="center">
+                <div align="center" class="new">
+                    <div id='cssmenu' align="center">
+                        <ul>
+                            <li class='active'><a href='index.html'><span>Home</span></a></li>
+                            <li class='active'><a href='aboutus.pdf' target="_blank"><span>About us</span></a></li>
+                            <li class='has-sub'><a href='#'><span>Temples</span></a>
+                                <ul>
+                                    <li><a href='content1.pdf' target="_blank"><span>Nagarathar Temples</span></a></li>
+                                    <li class='last'><a href='content2.pdf' target="_blank"><span>Natarajapuram Temples</span></a></li>
+                                </ul>
+                            </li>
+                            <li><a href='viduthigal.html'><span>Viduthigal</span></a></li>
+                            <li><a href='gallery.html'><span>Gallery</span></a></li>
+                            <li><a href='members2015.pdf' target="_blank"><span>Members</span></a></li>
+                            <li><a href='#'><span>Others</span></a></li>
+                            <li class='last'><a href='contact.html'><span>Contact</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table align="center" bgcolor="#FFFFFF" width="1020">
+                    <tr>
+                        <td width="631" height="24" align="right">
+                         <marquee onmouseover=this.stop() onmouseout=this.start() behavior="scroll" direction="left" scrollamount="6" width="835" hspace="2" bgcolor="#FFFFFF">
+                                <div class="style20 style21">நடராஜபுரம் நகரத்தார் இணையதளம் உங்களை அன்புடன் வரவேற்கிறது | Natarajapuram is a Village in Kallal Block in Sivaganga District of Tamil Nadu State, India. It is located 18 KM towards East from District head quarters Sivaganga. 15 KM from Kallal. 459 KM from State capital Chennai</div>
+                            </marquee>
+                        </td>
+                        <td width="310" align="right"><form style="width: 300" name="jksearch" action="http://www.google.com/search"  target="_blank" method="get" onSubmit="jksitesearch(this)">
+                        
+  <input id="hiddenquery" type="hidden" name="q" />
+  <input name="qfront" type="text" style="width: 300" placeholder="Search.." /> 
+                       
+  <script type="text/javascript">
+function jksitesearch(curobj){
+document.getElementById("hiddenquery").value=curobj.qfront.value
+}
+</script>
+</form>   </td>
+                    </tr>
+                </table>
+                <table width="1020" border="0" align="center" bgcolor="#FFFFFF">
+                    <tr>
+                        <td>
+                            <table align="center">
+                                <tr>
+                                    <td align="center">
+                                        <table width="495" height="278" border="0" align="left" class="radius">
+                                            <tr>
+                                                <td width="495" height="274"><img src="images/p1.jpg" alt="" name="slideshow" width="481" height="272" id="slideshow" javascript:auto()="javascript:auto()" /></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td>
+                                        <table width="497" border="0" style="background-image:url(images/h.jpg)" align="right">
+                                            <tr>
+                                                <td width="497" align="right">
+                                                    <div align="center"><span class="style2">News &amp; Events </span></div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="497" height="260" bgcolor="#FFFFFF">
+                                                    <marquee onmouseover=this.stop() onmouseout=this.start() behavior="scroll" direction="up" scrollamount="1" height="259" width="496" hspace="2" bgcolor="#FFFFFF">
+                                                        <p>
+                                                            <span class="style5">______________________________________________________________</span>
+                                                            <br />
+
+                                                            <span class="style54"><img src="images/news.gif" alt="" width="32" height="16"  /></span><span class="style29 style56 style4"> Welcome to the Natarajapuram Nagarathar Website</span>
+                                                            <br />
+                                                        </p>
+                                                    </marquee>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                  </tr>
+                    
+                    <table width="1020" height="354" border="0" align="center" bgcolor="#ffffff">
+  <tr>
+                            <td width="504" height="350">
+                                <table align="left">
+                                    <tr>
+                                        <td width="470" height="40">
+                                            <table background="images/bg2.jpg" width="486" height="38" align="left">
+                                                <tr>
+                                                    <td width="57" height="32" align="center"><img src="images/tic.png" width="30" height="30" /></td>
+                                                    <td width="431" height="32">
+                                                        <div align="left" class="names style12">Kural of the day</div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="89">அகர முதல எழுத்தெல்லாம் ஆதி </br> பகவன் முதற்றே உலகு </td>
+                                    </tr>
+                                    <tr>
+                                        <td><table background="images/bg2.jpg" width="486" height="10">
+                                          <tr>
+                                            <td width="56" height="10" align="center"><img src="images/kannadasan2.png" width="30" height="30" /></td>
+                                            <td width="432" height="10"><div align="left" class="names style12">Kannadasan Songs</div></td>
+                                          </tr>
+                                        </table></td>
+                                  </tr>
+                                    <tr>
+                                      <td height="162"><table align="center" width="300" height="100">
+                                        <tr>
+                                          <td align="center" width="150"><a href="kannadasan_devotional.html" target="_blank"><img src="images/i1.png" width="50" height="40" /></a></td>
+                                          <td align="center" width="150"><a href="kannadasan_cinema.html" target="_blank"><img src="images/i2.png" width="40" height="40" /></a></td>
+                                        <tr>
+                                          <td align="center" width="150"><a href="kannadasan_devotional.html" target="_blank"><span class="style15">Devotional Songs</span></a></td>
+                                          <td align="center" width="150"><a href="kannadasan_cinema.html" target="_blank"><span class="style15">Cinema Songs</span></a></td>
+                                        </tr>
+                                      </table></td>
+                                    </tr>
+                                </table>
+      </td>
+                            <td width="506">
+                                <table width="503" border="0">
+                                    <tr>
+                                        <td width="497">
+                                            <table background="images/bg2.jpg" width="500" height="10">
+                                                <tr>
+                                                    <td width="38" height="10" align="center"><img src="images/mapslogo.png" width="30" height="30" /></td>
+                                                    <td width="450" height="10">
+                                                        <div align="left" class="names style12">Map view</div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">
+<!--                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12737.13963835975!2d78.78731494691183!3d10.81494704526839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baaf2fc2bc4bc7d%3A0x41bb6ba9184964a9!2sNatarajapuram%2C+Tamil+Nadu+630556!5e1!3m2!1sen!2sin!4v1561783150432!5m2!1sen!2sin" width="480" height="300" frameborder="0" style="border:0"></iframe>-->
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4917.81428518116!2d78.60357820087992!3d9.92083657707827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00f705d78a991f%3A0xfea2fa1b8105d2b2!2sNatarajapuram%2C%20Tamil%20Nadu%20630556!5e1!3m2!1sen!2sin!4v1667626527470!5m2!1sen!2sin" width="480" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+  </table>
+                    <table width="994" align="center" bgcolor="#FFFFFF">
+                        <tr>
+                            <td width="994">
+                                <table align="center" width="994" height="20" bgcolor="#FFFFFF">
+                                    <tr>
+                                        <td>
+                                            <table background="images/bg2.jpg" width="994" height="10" align="center">
+                                                <tr>
+                                                    <td height="10" align="center"><img src="images/Manager.png" width="30" height="30" />
+                                                    </td>
+                                                    <td height="10">
+                                                        <div align="left" class="names style12">Distinguished Nagarathars</div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="994" border="0" align="center" class="radius1">
+                                                <tr>
+                                                    <td height="115">
+                                                        <marquee onmouseover=this.stop() onmouseout=this.start() behavior="scroll" direction="left" scrollamount="4" height="115" width="994" hspace="2" bgcolor="#FFFFFF">
+                                                            <table width="994" border="0" align="center" cellspacing="7">
+                                                                <tr>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/Pattinathar" target="_blank"><img src="images/kp.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/S._Rm._M._Annamalai_Chettiar" target="_blank"><img src="images/4.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/Karumuttu_Thiagarajan_Chettiar" target="_blank"><img src="images/ktc.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/M._A._Muthiah_Chettiar" target="_blank"><img src="images/5.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/A._V._Meiyappan" target="_blank"><img src="images/2006072802680105_1023263g.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/M._Ct._M._Chidambaram_Chettyar" target="_blank"><img src="images/m.ct.m.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/Alagappa_Chettiar" target="_blank"><img src="images/alagap1.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Tamilvanan" target="_blank"><img src="images/lena_sir.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100" height="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/Kannadasan" target="_blank"><img src="images/kannadasan1.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/M._A._M._Ramaswamy" target="_blank"><img src="images/mam.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/A._C._Muthiah" target="_blank"><img src="images/muth.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Panchu_Arunachalam" target="_blank"><img src="images/Panchu-Arunachalam.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <div align="center">
+                                                                            <a href="https://en.wikipedia.org/wiki/A._R._Lakshmanan" target="_blank"><img src="images/Justice_ARLakshmanan1.jpg" width="90" height="95" border="1" /></a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/P._Chidambaram" target="_blank"><img src="images/pac.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Rama_Narayanan" target="_blank"><img src="images/rn.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/S._P._Muthuraman" target="_blank"><img src="images/spm.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/A._Vellayan" target="_blank"><img src="images/mgv.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Vasanth" target="_blank"><img src="images/Vasanth_re.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Soma_Valliappan" target="_blank"><img src="images/somavalliappan.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100">
+                                                                        <a href="https://en.wikipedia.org/wiki/Karu_Pazhaniappan" target="_blank"><img src="images/karupalani.jpg" width="90" height="95" border="1" /></a>
+                                                                    </td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100"><img src="images/no.jpg" width="90" height="95" /></td>
+                                                                    <td width="100">&nbsp;</td>
+                                                                    <td width="10">&nbsp;</td>
+                                                                    <td width="100">&nbsp;</td>
+                                                                </tr>
+                                                            </table>
+                                                        </marquee>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+					<table width="1020" align="center" bgcolor="#FFFFFF">
+					<tr>
+					<td><div class="sharethis-inline-share-buttons"></div></td>
+					</tr>
+					<tr>
+					<td>&nbsp</td>
+					</tr>
+					</table>
+						
+                    <div align="center" class="footer">
+                        <div align="center"><span class="style13">&copy; 2019</div></div>
+ </table>
+ </table>
+  </td>
+  <div class="left"><table  style="display: none" width="113" border="0" align="center">
+        <tr>
+          <td width="0" height="41"></td>
+          <td width="0" height="41"></td>
+          <td width="0" height="41"><div id='myDiv'> </div></td>
+          <td width="25"><div align="center"><a href="javascript:chgImg(-1)" ><img src="left1.png" alt="" width="20" height="20" /></a></div></td>
+          <td width="25" align="left"><a href="javascript:chgImg(1)"><img src="right1.png" alt="" width="20" height="20" /></a></td>
+          <td width="17" align="left"><div align="center">
+              <script> auto(); </script>
+              <input name="hidden" type='hidden' id='theValue' value='0' />
+          </div>
+        </tr>
+      </table>
+
+</body>
+</html># natarajapuram
 Village Web Site 
